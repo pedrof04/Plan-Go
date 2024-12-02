@@ -1,0 +1,7 @@
+{
+  "name": "Plan&Go",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
